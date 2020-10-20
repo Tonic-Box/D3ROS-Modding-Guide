@@ -57,7 +57,7 @@ varint32 datasize;
 * 0x00 is the base service. It does not require binding. 
 
 ### Example Packet Logs
-[Pastebin](http://web.archive.org/web/20120508130803/http://pastebin.com/18j2mGsx)
+[Pastebin](http://pastebin.com/18j2mGsx)
 
 # Sources
 Credit for a a good majority of this page goes out to a priject that sadly no longer exists. However can still be seen here:  
