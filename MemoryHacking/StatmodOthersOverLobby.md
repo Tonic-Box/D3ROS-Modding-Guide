@@ -16,7 +16,7 @@ They all mirror and can affect each other in different ways depending on the sit
   Now you can set any stat as far negative as you want with no issue, but can’t break the 50 point caps going positive. So that leaves us with Mainstat and Vitality which seemingly don’t have a cap, right? Wrong! Unfortunately, that apparently do. They have a positive cap of 100k, hence our last limitation.  
   
 ### So, to condense.. Our limitations and bounds to work in are:  
-  * Mainstat & Vitality have a Positive cap of `100k`
+  * Mainstat & Vitality have a Positive cap of `100,000`
   * We cannot break positive caps (otherwise it will not write the change to their save file)
   * We have a limit of `-2,147,483,648` going negative on any stats (Just the limit of the data type used, sInt32)
   
