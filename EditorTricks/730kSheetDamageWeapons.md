@@ -8,8 +8,8 @@ This is the highest (that I know of) damage weapon you can make. Though technica
 
 ### Notes
 For instructions on modding the Colored and Legendary gems, Look here:  
-[Modding Colored Gems](EditorTricks/coloredGems.md)  
-[Modding Legendary Gems](EditorTricks/ModdingLegendaryGems.md)  
+[Modding Colored Gems](coloredGems.md)  
+[Modding Legendary Gems](ModdingLegendaryGems.md)  
 
 ### Credit
 [DJ Hazzard](https://www.youtube.com/user/7funnyman)
