@@ -8,5 +8,5 @@ This is the highest damge weapon you can make. Yes there are ways to make a [740
 
 ### Notes
 For instructions on modding the Colored and Legendary gems, Look here:  
-[Modding Colored Gems](EditorTricks/coloredGems.md)  
-[Modding Legendary Gems](EditorTricks/ModdingLegendaryGems.md)  
+[Modding Colored Gems](coloredGems.md)  
+[Modding Legendary Gems](ModdingLegendaryGems.md)  
