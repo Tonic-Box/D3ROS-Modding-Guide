@@ -3,7 +3,7 @@
 
 # Whats CASC?
 CASC Archives (Content Addressable Storage Container) are Blizzards proprietary storage containers for data and patch files.  
-[CASCView](http://www.zezula.net/en/casc/main.html) - For downloading and extracting CASCs  
+[CASCView](http://www.zezula.net/en/casc/main.html) - For downloading and extracting patch CASCs  
 [Technical Information on CASCs](https://wowdev.wiki/CASC)
 
 # What are GBIDs?
