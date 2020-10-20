@@ -35,14 +35,14 @@ _There is no sacred information._
 * **Gems and Socketing**  
 [Modding Colored Gems](EditorTricks/coloredGems.md)  
 [Modding Legendary Gems](EditorTricks/ModdingLegendaryGems.md)  
-[Socketing in Editor [NIY]]()  
+[Socketing in Editor [NIY]](EditorTricks/SocketingInEditor.md)  
 
 * **Formulas**  
 [561k Sheet Damage Weapons](EditorTricks/561kSheetDamageWeapons.md)  
 [730k Sheet Damage Weapons](EditorTricks/730kSheetDamageWeapons.md)
 
 * **Misc**  
-[Transmog Tricks [NYI]]()  
+[Transmog Tricks [NYI]](EditorTricks/TransmogTricks.md)  
 [Statmod vs. Non-Statmod Gear](EditorTricks/StatmodVsNonStatmodGear.md)
 
 ### MISC
@@ -56,7 +56,7 @@ _There is no sacred information._
 # Data Mining
 [CASC Archives, StringLists & GBIDs](DataMining/StringListsCASCAndGBIDs.md)  
 [Packet Sniffing & Diablos Network Protocols](DataMining/Packets.md)  
-[Models & Textures [NYI]]()  
+[Models & Textures [NYI]](DataMining/ModelsAndTextures.md)  
   
   
 # Memory Hacking
