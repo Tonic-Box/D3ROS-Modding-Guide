@@ -78,7 +78,7 @@ _**Note:** I only personally mod via memory on Switch, so keep that in mind as y
   
 # Further External Reading Material & Resources
 ### Data Mining
-[Automated Self-Updating DataMining Library](https://www.d3planner.com/game/)  
+[D3Planner's Automated DataMining API](https://www.d3planner.com/game/)  
 [Diablo 3 definitions](https://www.unknowncheats.me/wiki/Diablo:Diablo_3_Definitions)  
 [Diablo 3 Structs](https://www.unknowncheats.me/wiki/Diablo:D3_Base_Structs)  
 [Enigma.D3](https://github.com/daugis29/Enigma.D3)  
