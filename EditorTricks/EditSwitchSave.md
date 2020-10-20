@@ -3,6 +3,6 @@ For any of you who mod on switch, Im sure youve descovered by now that the edito
 
 Yes! Contrary to popular opinion, you can infact edit played switch toons in the editor. The only thing that needs to be fresh is the .dat files outside of the ``heroes/`` folder. So, generate fresh unplayed versions of those, and use them when editing toons.
 
-Then, just only swap in and out your toon files (this files in the ``heroes/`` folder) when you edit them.
+Then, just only swap in and out your toon files (located in the ``heroes/`` folder) when you edit them.
 
 And thats pretty much it. :)
