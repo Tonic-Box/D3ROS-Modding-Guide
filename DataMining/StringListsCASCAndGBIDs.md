@@ -7,7 +7,8 @@ CASC Archives (Content Addressable Storage Container) are Blizzards proprietary 
 [Technical Information on CASCs](https://wowdev.wiki/CASC)
 
 # What are GBIDs?
-A GBID (Game Balance ID) is a 32bit hash of identifyer strings used by the game to resolve and identify items. The hash used is the DJB algorithm but with a base of 0.
+A GBID (Game Balance ID) is a 32bit hash of identifyer strings used by the game to resolve and identify items. The hash used is the DJB algorithm but with a base of 0.  
+* **Credit:** [UnknownCheats Wiki](https://www.unknowncheats.me/wiki/Diablo:Diablo_3_Definitions)  
 
 ### Example Tools
 [STLParser](https://github.com/CaiMiao/D3Parser) - Takes STL Files and Parses them into Raw strings  
