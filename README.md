@@ -16,8 +16,8 @@ _There is no sacred information._
 **(For any editor based on the original by Jappi88 & CKY)**
 
 ### ACCOUNT  
-[Fake Necro Pre-Order Bonuses](EditorTricks/FakeNecroPreOrder.md)
-[910 Stash Space](EditorTricks/910StashSpace.md)
+[Fake Necro Pre-Order Bonuses](EditorTricks/FakeNecroPreOrder.md)  
+[910 Stash Space](EditorTricks/910StashSpace.md)  
 
 ### TOONS 
 [YT: Visuals: Introduction](https://www.youtube.com/watch?v=OTi-igTs4jI)  
