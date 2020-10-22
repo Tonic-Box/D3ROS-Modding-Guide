@@ -15,7 +15,8 @@ _There is no sacred information._
 # Editor Tricks
 **(For any editor based on the original by Jappi88 & CKY)**
 
-### ACCOUNT
+### ACCOUNT  
+[Fake Necro Pre-Order Bonuses](EditorTricks/FakeNecroPreOrder.md)
 
 ### TOONS 
 [YT: Visuals: Introduction](https://www.youtube.com/watch?v=OTi-igTs4jI)  
