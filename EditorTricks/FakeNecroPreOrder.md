@@ -1,6 +1,6 @@
 # Fake Necro Pre-Order Bonuses
 In this write-up, I'll explain how you can make the game think you pre-orderd the necro which will give you a few diferent in game goodies. Such as:  
-* Extra tool slots  
+* Extra toon slots  
 * 2 unique transmog books  
 * Unique login starter gear  
   
