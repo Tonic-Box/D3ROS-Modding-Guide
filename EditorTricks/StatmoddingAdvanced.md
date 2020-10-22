@@ -38,4 +38,8 @@ For the rest, I'll leave that to you. Remember, EVERYTHING is multiplicative of 
 
 
 ### Other statmod types
-The only difference in running different fancy statmods is working the math to match it! People have done lots of things, from 666b in all, to 0 in all, etc. Just got to get creative and weird with it. :)
+The only difference in running different fancy statmods is working the math to match it! People have done lots of things, from 666b in all, to 0 in all, etc. Just got to get creative and weird with it. :)  
+  
+### Credit
+* bdawgg_73
+* Some others who wish not to be named
