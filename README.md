@@ -77,7 +77,6 @@ _**Note:** I only personally mod via memory on Switch, so keep that in mind as y
 [Switch: Dupe Items](https://www.youtube.com/watch?v=Kw-0euRXCWY&t=18s)  
 [Mailbox Dupe Method](https://www.youtube.com/watch?v=fCq-4dIPulo)  
 [Spawn a Rit Guardian in Town [NYI]](Other/SpawnRiftGuardianInTown.md)  
-[Damage Players in Town [NYI]](Other/DamagePlayersInTown.md)  
   
   
 # Further External Reading Material & Resources
