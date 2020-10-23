@@ -44,7 +44,7 @@ _There is no sacred information._
 [730k Sheet Damage Weapons](EditorTricks/730kSheetDamageWeapons.md)
 
 * **Misc**  
-[Transmog Tricks [NYI]](EditorTricks/TransmogTricks.md)  
+[Transmog Tricks](EditorTricks/TransmogTricks.md)  
 [Statmod vs. Non-Statmod Gear](EditorTricks/StatmodVsNonStatmodGear.md)
 
 ### MISC
