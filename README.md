@@ -56,8 +56,7 @@ _There is no sacred information._
   
   
 # Data Mining
-[CASC Archives, StringLists & GBIDs](DataMining/StringListsCASCAndGBIDs.md)  
-[Packet Sniffing & Diablos Network Protocols](DataMining/Packets.md)  
+[CASC Archives, StringLists & GBIDs](DataMining/StringListsCASCAndGBIDs.md)    
 [Models & Textures [NYI]](DataMining/ModelsAndTextures.md)  
   
   
