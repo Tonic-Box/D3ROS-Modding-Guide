@@ -48,7 +48,6 @@ _There is no sacred information._
 [Transmog Tricks](EditorTricks/TransmogTricks.md)  
 [Become a Firey Ball of Light](EditorTricks/FireyBallOfLight.md)  
 [Switch: Monk Wind Lazer](EditorTricks/MonkWindLazer.md)  
-[Make all Game Objects Glow [NYI]](EditorTricks/AllObjectsGlow.md)  
   
 * **Misc**  
   
