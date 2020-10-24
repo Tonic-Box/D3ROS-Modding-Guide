@@ -45,6 +45,7 @@ _There is no sacred information._
 
 * **Misc**  
 [Transmog Tricks](EditorTricks/TransmogTricks.md)  
+[Visual: Become a Firey Ball of Light](EditorTricks/FireyBallOfLight.md)  
 [Statmod vs. Non-Statmod Gear](EditorTricks/StatmodVsNonStatmodGear.md)
 
 ### MISC
