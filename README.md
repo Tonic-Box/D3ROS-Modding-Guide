@@ -42,7 +42,7 @@ _There is no sacred information._
 [561k Sheet Damage Weapons](EditorTricks/561kSheetDamageWeapons.md)  
 [730k Sheet Damage Weapons](EditorTricks/730kSheetDamageWeapons.md)
   
-* **Visual Effects**
+* **Visual Effects**  
 [YT: Visuals: Introduction](https://www.youtube.com/watch?v=OTi-igTs4jI)  
 [Visuals: Elemental Effects](EditorTricks/VisualsElementalEffects.md)  
 [Transmog Tricks](EditorTricks/TransmogTricks.md)  
