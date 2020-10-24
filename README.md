@@ -14,17 +14,15 @@ _There is no sacred information._
   
 # Editor Tricks
 **(For any editor based on the original by Jappi88 & CKY)**
-
+  
 ### ACCOUNT  
 [Fake Necro Pre-Order Bonuses](EditorTricks/FakeNecroPreOrder.md)  
 [910 Stash Space](EditorTricks/910StashSpace.md)  
-
+  
 ### TOONS 
-[YT: Visuals: Introduction](https://www.youtube.com/watch?v=OTi-igTs4jI)  
-[Visuals: Elemental Effects](EditorTricks/VisualsElementalEffects.md)  
 [Statmodding (Basics)](EditorTricks/How2Statmod.md)  
 [Statmodding (Advanced)](EditorTricks/StatmoddingAdvanced.md)
-
+  
 ### GEAR
 * **Basics**  
 [GETTING STARTED: Read this first](EditorTricks/GettingStartedWithGearModding.md)  
@@ -33,21 +31,27 @@ _There is no sacred information._
 [Item Flags](EditorTricks/flags.md)  
 [Tier Quality](EditorTricks/TierQuality.md)  
 [Naming items](EditorTricks/NamingItems.md)  
-
+[Statmod vs. Non-Statmod Gear](EditorTricks/StatmodVsNonStatmodGear.md)  
+  
 * **Gems and Socketing**  
 [Modding Colored Gems](EditorTricks/coloredGems.md)  
 [Modding Legendary Gems](EditorTricks/ModdingLegendaryGems.md)  
 [Socketing in Editor [NIY]](EditorTricks/SocketingInEditor.md)  
-
+  
 * **Formulas**  
 [561k Sheet Damage Weapons](EditorTricks/561kSheetDamageWeapons.md)  
 [730k Sheet Damage Weapons](EditorTricks/730kSheetDamageWeapons.md)
-
-* **Misc**  
+  
+* **Visual Effects**
+[YT: Visuals: Introduction](https://www.youtube.com/watch?v=OTi-igTs4jI)  
+[Visuals: Elemental Effects](EditorTricks/VisualsElementalEffects.md)  
 [Transmog Tricks](EditorTricks/TransmogTricks.md)  
-[Visual: Become a Firey Ball of Light](EditorTricks/FireyBallOfLight.md)  
-[Statmod vs. Non-Statmod Gear](EditorTricks/StatmodVsNonStatmodGear.md)
-
+[Become a Firey Ball of Light](EditorTricks/FireyBallOfLight.md)  
+[Switch: Monk Wind Lazer](EditorTricks/MonkWindLazer.md)
+[Make all Game Objects Glow [NYI]](EditorTricks/AllObjectsGlow.md)
+  
+* **Misc**  
+  
 ### MISC
 [The Raw Tabs](EditorTricks/RawTabs.md)  
 [How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
