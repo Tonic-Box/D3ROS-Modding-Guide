@@ -1,5 +1,5 @@
 # Visual: Become a Firey Ball of Light
-This is a visual trick to become a big firey ball of light. It invloves a combination of statmodding along with specific gear. The basic concpt of how this works, if you mod your life, vitality, and regen to be at odds so it's constantly trying to kill you which procs your life ring and constantly revitalizes you which the animation essencially turns you into the ball of light.  
+This is a visual trick to become a big firey ball of light. It invloves a combination of [Statmodding](How2Statmod.md) along with the Test Ring 516. The basic concpt of how this works, if you mod your life, vitality, and regen to be at odds so it's constantly trying to kill you which procs your life ring and constantly revitalizes you which the animation essencially turns you into the ball of light.  
   
 ### Gear Needed
 * Test Ring 516 (The Life Ring)  
