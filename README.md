@@ -15,6 +15,11 @@ _There is no sacred information._
 # Editor Tricks
 **(For any editor based on the original by Jappi88 & CKY)**
   
+### Pulling Your Saves
+[How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
+[YT: How to Mod PlayStation Saves](https://www.youtube.com/watch?v=CM6xAo6uH3E)  
+[YT: How to Mod XBox Saves](https://www.youtube.com/watch?v=A21lznmZ-K4)  
+  
 ### ACCOUNT  
 [Fake Necro Pre-Order Bonuses](EditorTricks/FakeNecroPreOrder.md)  
 [910 Stash Space](EditorTricks/910StashSpace.md)  
@@ -53,9 +58,6 @@ _There is no sacred information._
   
 ### MISC
 [The Raw Tabs](EditorTricks/RawTabs.md)  
-[How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
-[YT: How to Mod PlayStation Saves](https://www.youtube.com/watch?v=CM6xAo6uH3E)  
-[YT: How to Mod XBox Saves](https://www.youtube.com/watch?v=A21lznmZ-K4)  
 [YT: item_slot.txt and categorizing gear](https://www.youtube.com/watch?v=rOXRV-bEJHM&t=295s)  
   
   
