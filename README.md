@@ -13,7 +13,7 @@ _There is no sacred information._
 * **Email:** [gsec.tonicbox@protonmail.com](mailto:gsec.tonicbox@protonmail.com)
   
 # Editor Tricks
-**(For any editor based on the original by Jappi88 & CKY)**
+* **(For any editor based on the original by Jappi88 & CKY)**
   
 ### Pulling Your Saves
 [How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
