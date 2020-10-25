@@ -54,7 +54,6 @@ _There is no sacred information._
 [Become a Firey Ball of Light](EditorTricks/FireyBallOfLight.md)  
 [Switch: Monk Wind Lazer](EditorTricks/MonkWindLazer.md)  
   
-* **Misc**  
   
 ### MISC
 [The Raw Tabs](EditorTricks/RawTabs.md)  
