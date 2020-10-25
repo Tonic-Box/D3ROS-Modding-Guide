@@ -6,10 +6,10 @@ _NOTE: You must be the lobby host to accomplish this_
 ### The logic, limitations, and Theory Crafting
 
 A brief explanation as I understand their function currently:
-* ADDR_1: This is the address that directly mirrors and can cause updates to your save file
-* ADDR_2: This is the address that displays on your paragon tabs
-* ADDR_3: This is the address that directly factors into your stat equations
-* ADDR_4: Not sure yet, but, it's there.
+* **ADDR_1:** This is the address that directly mirrors and can cause updates to your save file
+* **ADDR_2:** This is the address that displays on your paragon tabs
+* **ADDR_3:** This is the address that directly factors into your stat equations
+* **ADDR_4:** Not sure yet, but, it's there.
   
 They all mirror and can affect each other in different ways depending on the situation. Normally when modding yourself via memory, you’d just change all 4 addresses to the number you want for the stat. But it gets a little trickier when accessing someone else’s stats in memory over a lobby.  
   When you attempt to find the addresses for someone else’s stats over a lobby, you will only be able to access addresses 2, 3, and 4. Which... Poses us with a hard limitation of not being able to break the positive number cap. This is because, those 3 can be made to affect the 1st address on their side and hence mod their stats, writing it to their save file. However, there are hard code checks on that 1st address.
