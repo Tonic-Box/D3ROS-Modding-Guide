@@ -14,7 +14,7 @@ _There is no sacred information._
   
 # Editor Tricks
 * **(For any editor based on the original by Jappi88 & CKY)**  
-* [YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) 
+[YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) 
   
 ### Pulling Your Saves
 [How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
