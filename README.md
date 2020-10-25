@@ -13,7 +13,8 @@ _There is no sacred information._
 * **Email:** [gsec.tonicbox@protonmail.com](mailto:gsec.tonicbox@protonmail.com)
   
 # Editor Tricks
-* **(For any editor based on the original by Jappi88 & CKY)**
+* **(For any editor based on the original by Jappi88 & CKY)**  
+* [YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) 
   
 ### Pulling Your Saves
 [How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
@@ -30,8 +31,7 @@ _There is no sacred information._
   
 ### GEAR
 * **Basics**  
-[GETTING STARTED: Read this first](EditorTricks/GettingStartedWithGearModding.md)  
-[YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s)  
+[GETTING STARTED: Read this first](EditorTricks/GettingStartedWithGearModding.md)   
 [Adding the 7th (Mystic) Affix](EditorTricks/MysticTabAffex.md)  
 [Item Flags](EditorTricks/flags.md)  
 [Tier Quality](EditorTricks/TierQuality.md)  
