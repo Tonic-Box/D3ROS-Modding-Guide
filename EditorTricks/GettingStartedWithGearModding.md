@@ -12,3 +12,6 @@ Gear modding can be a blast and opens up a whole new world of exploration. This 
 * [Contagion's Editor](https://github.com/ooCONTAGIONoo/D3Editor/releases)
 * [DevilSon's Editor](https://github.com/xXTheDevilsSonXx/Editor-Releases)
 * [AWP's Editor](http://diiiedit.awp-ent.com/) (Paid)
+  
+# Getting started with the editor
+[YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) 
