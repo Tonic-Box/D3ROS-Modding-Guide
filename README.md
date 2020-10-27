@@ -25,9 +25,10 @@ _There is no sacred information._
 [Fake Necro Pre-Order Bonuses](EditorTricks/FakeNecroPreOrder.md)  
 [910 Stash Space](EditorTricks/910StashSpace.md)  
   
-### TOONS 
-[Statmodding (Basics)](EditorTricks/How2Statmod.md)  
-[Statmodding (Advanced)](EditorTricks/StatmoddingAdvanced.md)
+### Statmodding
+[Statmodding: Basics](EditorTricks/How2Statmod.md)  
+[Statmodding: Dots](EditorTricks/StatmoddingAdvanced.md)  
+[Statmodding: Mainstats 11... to 99...](EditorTricks/msStatmodding.md)
   
 ### GEAR
 * **Basics**  
