@@ -14,3 +14,6 @@ Heres a quick cheatsheet of some of the numbers for refference.
 * **[50]** `-1,000,000,000`  
 * **[75]** `-1,500,000,000`  
 * **[99]** `-1,980,000,000`  
+
+### Credit
+* bdawgg_73
