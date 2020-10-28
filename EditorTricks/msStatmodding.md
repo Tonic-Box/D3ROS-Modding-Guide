@@ -10,12 +10,7 @@ Now on your end it will show `-7500m`. However for others in your lobby they wil
 
 ### Cheatsheet  
 Heres a quick cheatsheet of some of the numbers for refference.  
-<details>
-  <summary>~Spoiler~</summary>
-  <p>  
-  * **[25]** `-500,000,000`  
-  * **[50]** `-1,000,000,000`  
-  * **[75]** `-1,500,000,000`  
-  * **[99]** `-1,980,000,000`  
-  </p>
-</details>
+* **[25]** `-500,000,000`  
+* **[50]** `-1,000,000,000`  
+* **[75]** `-1,500,000,000`  
+* **[99]** `-1,980,000,000`  
