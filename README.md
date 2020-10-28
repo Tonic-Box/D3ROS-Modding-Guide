@@ -12,6 +12,8 @@ _There is no sacred information._
 * **Twitter:** [@Tonic_Box](https://twitter.com/Tonic_Box)
 * **Email:** [gsec.tonicbox@protonmail.com](mailto:gsec.tonicbox@protonmail.com)
   
+# My Software
+[STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/tag/2.0)  
 # Editor Tricks
 * **(For any editor based on the original by Jappi88 & CKY)**  
 [YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) 
