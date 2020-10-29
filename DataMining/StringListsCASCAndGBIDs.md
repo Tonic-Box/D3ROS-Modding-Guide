@@ -11,7 +11,7 @@ A GBID (Game Balance ID) is a 32bit hash of identifyer strings used by the game 
 * **Credit:** [UnknownCheats Wiki](https://www.unknowncheats.me/wiki/Diablo:Diablo_3_Definitions)  
 
 ### Example Tools
-[STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/tag/2.0)  
+[STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/)  
 [STLParser](https://github.com/CaiMiao/D3Parser) - Takes STL Files and Parses them into Raw strings  
 [D3 Hash Tool V2](https://github.com/ooCONTAGIONoo/D3HashTool/releases) - Contagions GBID hashing tool  
 
