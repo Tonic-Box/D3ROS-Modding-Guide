@@ -8,5 +8,8 @@ When modding in the editor, if you go to the mystic tab when viewing an item, yo
 ### Pink Gear (Demon Hunter)
 * **Pants, Boots, Gloves:** Blackfeather  
 * **Weapons:** Testing Art Crossbow 2  
+
+### Invisible (Monk)
+* **Pants, Gloves, Chest:** Illusory Boots  
   
 Will add more soon!
