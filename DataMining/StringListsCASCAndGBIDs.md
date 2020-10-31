@@ -36,7 +36,7 @@ function gbid($input) {
 	$hash = 0;
 	$input = strtolower($input);
 	for ($i = 0; $i < strlen($input); $i++) {
-		$hash = fix(($hash << 5) + $hash + ord($input[$i]));
+		$hash = ($hash << 5) + $hash + ord($input[$i]);
 		//A little magic here to emulate 32bit type wrapping since php likes to auto type cast
 		while($hash > 2147483647) $hash -= 4294967296;
 		while($hash < -2147483648) $hash += 4294967296;
