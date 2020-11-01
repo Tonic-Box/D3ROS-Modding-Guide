@@ -7,15 +7,10 @@ CASC Archives (Content Addressable Storage Container) are Blizzards proprietary 
 [Technical Information on CASCs](https://wowdev.wiki/CASC)
 
 # What are GBIDs?
-A GBID (Game Balance ID) is a 32bit hash of identifyer strings used by the game to resolve and identify items. The hash used is the DJB algorithm but with a base of 0.  
-* **Credit:** [UnknownCheats Wiki](https://www.unknowncheats.me/wiki/Diablo:Diablo_3_Definitions)  
+A GBID (Game Balance ID) is a 32bit hash of identifyer strings used by the game to resolve and identify items. The hash used is the DJB algorithm but with a base of 0. ActorCommonData objects have a GBID field which can be used to resolve in-world items to GameBalance SNO structures, and determine attributes such as item type, quality, etc.  
+* **Credit:** [UnknownCheats Wiki](https://www.unknowncheats.me/wiki/Diablo:Diablo_3_Definitions)   
 
-### Example Tools
-[STLParser](https://github.com/Tonic-Box/STLParser/releases/) - Parses .STL files into both raw and hashed (gbid) lists  
-[D3Parser](https://github.com/CaiMiao/D3Parser) - Takes STL/GAM Files and Parses them into Raw strings  
-[D3 Hash Tool V2](https://github.com/ooCONTAGIONoo/D3HashTool/releases) - Contagions GBID hashing tool  
-
-### Example implementations
+### Example hash implementations
 
 (C++):
 ```cpp
@@ -44,6 +39,11 @@ function gbid($input) {
 	return $hash;
 }
 ```
+
+### Example Tools
+[STLParser](https://github.com/Tonic-Box/STLParser/releases/) - Parses .STL files into both raw and hashed (gbid) lists  
+[D3Parser](https://github.com/CaiMiao/D3Parser) - Takes STL/GAM Files and Parses them into Raw strings  
+[D3 Hash Tool V2](https://github.com/ooCONTAGIONoo/D3HashTool/releases) - Contagions GBID hashing tool 
 
 # Conclution
 This is more than enough to get any one in the right direction in regards to pulling GBIDs and data mining the StringList files. For any other inqueries into the topic; Google, trial, and error are your friends. :)
