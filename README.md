@@ -107,11 +107,11 @@ _**Note:** I only personally mod via memory on Switch, so keep that in mind as y
 [AWP: Paid Editor](http://diiiedit.awp-ent.com/)  
 
 ### Editor Guides
-[YT: VXTheDeviLsSonXV - Has some vids on the editor](https://www.youtube.com/channel/UCLBAkdoPx5PuABYIthCK0Rw)  
 [AWP's Guides](http://forum.awp-ent.com/index.php/guide)  
 [YT: DJ Hazzard - Has some vids on the editor if you dig a ways back](https://www.youtube.com/user/7funnyman)  
 [YT: DJM 76 - Has some vids on the editor if you dig a ways back](https://www.youtube.com/user/Kradnamx)  
 [YT: King - Editor videos](https://www.youtube.com/channel/UCZ-zY0gIxu3Eiaw1TxEdcTA)  
+[YT: DevilsSon - Has some vids on the editor](https://www.youtube.com/channel/UCLBAkdoPx5PuABYIthCK0Rw)  
 
 ### Misc
 [Natural Gear Max Affexes](https://docs.google.com/spreadsheets/d/1UlY9Io0rK87rUGXqoAspSExOT9W9MvrBSssSCL5cSuw/edit#gid=0)  
