@@ -19,6 +19,8 @@ _There is no sacred information._
 # Editor Tricks
 * **(For any editor based on the original by Jappi88 & CKY)**  
   
+* My Editor: [D3 RoS Editor](https://github.com/Tonic-Box/D3RoSEdit/releases)    
+  
 [YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s)  
   
 ### Pulling Your Saves
