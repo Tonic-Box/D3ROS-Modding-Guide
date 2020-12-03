@@ -14,6 +14,8 @@ _There is no sacred information._
   
 # My Software
 [STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/tag/2.0)  
+[D3 RoS Editor - A save editor for Diablo 3 RoS](https://github.com/Tonic-Box/D3RoSEdit/releases)  
+  
 # Editor Tricks
 * **(For any editor based on the original by Jappi88 & CKY)**  
   
