@@ -106,7 +106,6 @@ _**Note:** I only personally mod via memory on Switch, so keep that in mind as y
 [DevilsSons GitHub](https://github.com/xXTheDevilsSonXx/)  
 [Open Source Editor (python)](https://github.com/unixtreme/D3Edit/)  
 [AWP: Open Source Editor - Broken (C#)](http://diiiedit.awp-ent.com/Source/)  
-[AWP: Paid Editor](http://diiiedit.awp-ent.com/)  
 
 ### Editor Guides
 [AWP's Guides](http://forum.awp-ent.com/index.php/guide)  
