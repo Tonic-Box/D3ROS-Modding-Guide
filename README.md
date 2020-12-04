@@ -108,7 +108,6 @@ _**Note:** I only personally mod via memory on Switch, so keep that in mind as y
 * [TonicBoxs Editor](https://github.com/Tonic-Box/D3RoSEdit/releases)  
 
 [Contagions GitHub](https://github.com/ooCONTAGIONoo/)  
-[DevilsSons GitHub](https://github.com/xXTheDevilsSonXx/)  
 [Open Source Editor (python)](https://github.com/unixtreme/D3Edit/)  
 [AWP: Open Source Editor - Broken (C#)](http://diiiedit.awp-ent.com/Source/)  
 
