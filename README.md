@@ -22,7 +22,7 @@ _There is no sacred information._
   
 * Recomended Editor: [D3 RoS Editor](https://github.com/Tonic-Box/D3RoSEdit/releases)    
   
-[YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s)  
+[YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) (Slightly outdated but will still give you gist of it all)  
   
 ### Pulling Your Saves
 [How to Mod Switch Saves](EditorTricks/EditSwitchSave.md)  
