@@ -1,5 +1,5 @@
 # Diablo III (ROS) - Modding Archive
-The point in me writing this and putting this collection together is not to make a name for myself, nor to stir the pot. The point in me putting this together is to try and to heal a broken community. There are so many great people modding out there, but there is also a lot of elitism mixed in as well. My point in putting this together is to first, give new modders a library of information to get started with, and second, to try wash out the elitism and lack of community I see plaguing the scene these days.  
+The point in me writing this and putting this collection together is not to make a name for myself, nor to stir the pot. The point in me putting this together is to try and to heal a broken community. There are so many great people modding out there, but there is also a lot of elitism mixed in as well. My point in putting this together is to first, give new modders a library of information to get started with, and second, to try and wash out the elitism and lack of community I see plaguing the scene these days.  
   
 _There is no sacred information._
   
