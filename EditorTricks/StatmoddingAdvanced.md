@@ -32,7 +32,7 @@ For the rest, I'll leave that to you. Remember, EVERYTHING is multiplicative of 
   * **Life Per Hit:**         `-2,147,483,647`  
   * **Armor:**                `-200`  
   * **Crit Chance:**          `2,147,483,647`  
-  * **Crit Damage:**          `-2,147,483,647` (May change depending on gear an system)  
+  * **Crit Damage:**          `-2,147,483,647` (May change depending on gear and system if you want DPS dots)  
   </p>
 </details>
 
