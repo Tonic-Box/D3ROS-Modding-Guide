@@ -30,7 +30,7 @@ For the rest, I'll leave that to you. Remember, EVERYTHING is multiplicative of 
   * **Life Percent:**         `-2,147,483,647`  
   * **Life Regen:**           `0`  
   * **Life Per Hit:**         `-2,147,483,647`  
-  * **Armor:**                (different if you are wearing gear or depending on console)  
+  * **Armor:**                `-200`  
   * **Crit Chance:**          `2,147,483,647`  
   * **Crit Damage:**          `-2,147,483,647` (May change depending on gear an system)  
   </p>
