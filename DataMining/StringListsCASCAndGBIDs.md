@@ -1,5 +1,5 @@
 # What are String Lists?
-\*.stl files (StringList Files) are files cound in the `StringLists/` folder withing Diablos CASC Archives. These are binary files that contain the string names of different game objects, items, dialogue, etc. If you were to pop them open in a hex editor, or in notepad even, you would see in each of the files the string names.
+\*.stl files (StringList Files) are files found in the `StringLists/` folder withing Diablos CASC Archives. These are binary files that contain the string names of different game objects, items, dialogue, etc. If you were to pop them open in a hex editor, or in notepad even, you would see in each of the files the string names.
 
 # Whats CASC?
 CASC Archives (Content Addressable Storage Container) are Blizzards proprietary storage containers for data and patch files.  
