@@ -12,7 +12,7 @@ Once you've sorted out the affixes on your gear, add negative paragon to cancel 
 
 Now you should have 0s.
 
-# Doing Damage with a Zeros Statmad
+# Doing Damage with a Zeros Statmod
 Again there are many different ways one can do this, so I'll give an example for Demon hunter.
 
 Set your `critical hit damage` to `-150` and add the `Sharp Shooter` passive somewhere on your gear. Then just stack damage and damage % on your gear and weapon (with this you can actually use a weapon).
