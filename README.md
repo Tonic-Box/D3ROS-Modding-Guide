@@ -60,6 +60,7 @@ _There is no sacred information._
 [YT: Visuals: Introduction](https://www.youtube.com/watch?v=OTi-igTs4jI)  
 [Visuals: Elemental Effects](EditorTricks/VisualsElementalEffects.md)  
 [Transmog Tricks](EditorTricks/TransmogTricks.md)  
+[Black panel (Unstable Gear)](EditorTricks/UnstableGear.md)  
 [Become a Firey Ball of Light](EditorTricks/FireyBallOfLight.md)  
 [Switch: Monk Wind Lazer](EditorTricks/MonkWindLazer.md)  
   
