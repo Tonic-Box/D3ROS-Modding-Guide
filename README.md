@@ -12,6 +12,9 @@ _There is no sacred information._
 * **Twitter:** [@Tonic_Box](https://twitter.com/Tonic_Box)
 * **Email:** [gsec.tonicbox@protonmail.com](mailto:gsec.tonicbox@protonmail.com)
   
+### Special Thanks
+* Special thanks to D-R-A-S-T-I-C, thise guide would not have been possible without his contributions and help
+  
 # My Software
 [STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/tag/2.0)  
 [PS3 Save Decrypter - A decrypter for PS3 saves](https://github.com/Tonic-Box/PS3-Save-Decrypter)  
