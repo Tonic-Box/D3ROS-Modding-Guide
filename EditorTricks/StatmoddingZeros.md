@@ -20,3 +20,7 @@ Set your `critical hit damage` to `-150` and add the `Sharp Shooter` passive som
 In game when you first load up with will show your sheet dps with actual damage, but as the buff from sharp shooter stacks up, it will bring you down to 0.
 
 But when acrtually attacking things the buf resets and boom your have dammage, but will always reset back to 0.
+
+### Credits
+* D-R-A-S-T-I-C
+* Syite
