@@ -36,7 +36,7 @@ _There is no sacred information._
 ### Statmodding
 [Statmodding: Basics](EditorTricks/How2Statmod.md)  
 [Statmodding: Dots](EditorTricks/StatmoddingAdvanced.md)  
-[Statmodding: Mainstats 11... to 99...](EditorTricks/msStatmodding.md)
+[Statmodding: Mainstats 11... to 99...](EditorTricks/msStatmodding.md)  
 [Statmodding: Zeros](EditorTricks/StatmoddingZeros.md)  
   
 ### GEAR
