@@ -12,6 +12,26 @@ Once you've sorted out the affixes on your gear, add negative paragon to cancel 
 
 Now you should have 0s.
 
+### Example numbers with a lvl70 Demon Hunter
+<details>
+  <summary>~Spoiler~</summary>
+  <p>  
+    
+  * Paragon Stats:  
+    + **Armor:** `2147483647`  
+    + **Resist All:** `2147483647`  
+    + **Vitality:** `-659`  
+    + **Dexterity:** `-673`  
+    + **Strength:** `-645`  
+    + **Intelligence:** `-645`  
+  * Affexes for gear:  
+    + 4x `495-787 Strength`  
+    + 4x `495-787 Intelligence`  
+    + 4x `495-787 Dexterity`  
+    + 4x `495-787 Vitality`  
+  </p>
+</details>
+
 # Doing Damage with a Zeros Statmod
 Again there are many different ways one can do this, so I'll give an example for Demon hunter.
 
