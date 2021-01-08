@@ -6,7 +6,7 @@ By colored gems, here we are reforung to the flawless royal ruby, topaz, emerald
 1. In the editor, add a new item, and select the Flawless Royal version of whichever gem you are wanting to mod.
 2. Go to "Properties" tab on the Gem
 2. IMORTANT: do not set durability on these. leave them at 0!
-3. set rarity to 7
+3. set rarity to 6
 4. set the primal flag
 5. set the quantity to however many of the gem you want
 5. Go to the "Rare Names" tab
