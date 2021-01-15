@@ -13,7 +13,7 @@ _There is no sacred information._
 * **Email:** [gsec.tonicbox@protonmail.com](mailto:gsec.tonicbox@protonmail.com)
   
 ### Special Thanks
-* Special thanks to D-R-A-S-T-I-C, thise guide would not have been possible without his contributions and help
+* Special thanks to D-R-A-S-T-I-C, this guide would not have been possible without his contributions and help
   
 # My Software
 [STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/tag/2.0)  
