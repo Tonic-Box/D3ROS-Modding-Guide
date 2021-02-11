@@ -18,12 +18,12 @@ _There is no sacred information._
 # My Software
 [STLParser - Parses .STL files into both raw and hashed (gbid) lists](https://github.com/Tonic-Box/STLParser/releases/tag/2.0)  
 [PS3 Save Decrypter - A decrypter for PS3 saves](https://github.com/Tonic-Box/PS3-Save-Decrypter)  
-[D3 RoS Editor - A save editor for Diablo 3 RoS](https://github.com/Tonic-Box/D3RoSEdit/releases)  
+[D3 Studio - A save editor for Diablo 3 RoS/Eternal](https://github.com/Tonic-Box/D3Studio/releases/latest))  
   
 # Editor Tricks
 * **(For any editor based on the original by Jappi88 & CKY)**  
   
-* Recomended Editor: [D3 RoS Editor](https://github.com/Tonic-Box/D3RoSEdit/releases)    
+* Recomended Editor: [D3 RoS Editor](https://github.com/Tonic-Box/D3Studio/releases/latest))    
   
 [YT: Navigating the Editor](https://www.youtube.com/watch?v=mdRdimc_Zu0&t=46s) (Slightly outdated but will still give you gist of it all)  
   
@@ -110,9 +110,9 @@ _**Note:** I only personally mod via memory on Switch, so keep that in mind as y
 [D3Parser](https://github.com/CaiMiao/D3Parser)  
 
 ### Editors
-* [TonicBoxs Editor](https://github.com/Tonic-Box/D3RoSEdit/releases)  
+* [TonicBox's Editor](https://github.com/Tonic-Box/D3Studio/releases/latest))  
 
-[Contagions GitHub](https://github.com/ooCONTAGIONoo/)  
+[Contagion's GitHub](https://github.com/ooCONTAGIONoo/)  
 [Open Source Editor (python)](https://github.com/unixtreme/D3Edit/)  
 [AWP: Open Source Editor - Broken (C#)](http://diiiedit.awp-ent.com/Source/)  
 
