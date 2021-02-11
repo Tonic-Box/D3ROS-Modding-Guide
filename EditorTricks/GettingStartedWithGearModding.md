@@ -9,6 +9,7 @@ Gear modding can be a blast and opens up a whole new world of exploration. This 
 * The PVP amulet has a built in socket, so only put 2 sockets on it max, otherwise the save will crash
 
 # Choosing an editor
+* [TonicBox's D3Studio](https://github.com/Tonic-Box/D3Studio/releases/latest) -Recomended
 * [Contagion's Editor](https://github.com/ooCONTAGIONoo/D3Editor/releases)
 * [DevilSon's Editor](https://github.com/xXTheDevilsSonXx/Editor-Releases)
 * [AWP's Editor](http://diiiedit.awp-ent.com/) (Paid)
