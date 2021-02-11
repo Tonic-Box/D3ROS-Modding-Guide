@@ -6,7 +6,7 @@ Gear modding can be a blast and opens up a whole new world of exploration. This 
 * Always change mystic roll count when setting the 7th affex in the mystic tab
 * For perfect affix rolls, remember to always set the "Primal" flag under the Properties tab
 * Remember to throw 3 sockets on all gear pieces
-* The PVP amulet has a built in socket, so pont put 2 sockets on it max, otherwise the save will crash
+* The PVP amulet has a built in socket, so only put 2 sockets on it max, otherwise the save will crash
 
 # Choosing an editor
 * [Contagion's Editor](https://github.com/ooCONTAGIONoo/D3Editor/releases)
