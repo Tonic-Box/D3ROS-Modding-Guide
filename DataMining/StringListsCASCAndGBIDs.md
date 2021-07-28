@@ -39,6 +39,24 @@ function gbid($input) {
 	return $hash;
 }
 ```
+(Power Shell)
+```ps
+Function gbid([string]$str) {
+  $hash = 0
+  $str = $str.ToLower()
+  $array = [char[]]$str
+  for ($i=0; $i -lt $array.length; $i++) {
+    $hash = ($hash -shl 5) + $hash + [byte][char]$array[$i]
+	while($hash -gt 2147483647) {
+        $hash -= 4294967296
+    }
+	while($hash -lt -2147483648) {
+        $hash += 4294967296
+    }
+  }
+  Write-Output $hash
+}
+```
 
 ### Example Tools
 [STLParser](https://github.com/Tonic-Box/STLParser/releases/) - Parses .STL files into both raw and hashed (gbid) lists  
