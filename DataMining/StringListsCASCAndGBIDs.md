@@ -47,10 +47,10 @@ Function gbid([string]$str) {
   $array = [char[]]$str
   for ($i=0; $i -lt $array.length; $i++) {
     $hash = ($hash -shl 5) + $hash + [byte][char]$array[$i]
-	while($hash -gt 2147483647) {
+    while($hash -gt 2147483647) {
         $hash -= 4294967296
     }
-	while($hash -lt -2147483648) {
+    while($hash -lt -2147483648) {
         $hash += 4294967296
     }
   }
